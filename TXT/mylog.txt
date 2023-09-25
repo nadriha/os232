@@ -10,3 +10,9 @@ ZCZC w01 30 L31 Instaling virtual box and linux
 ZCZC W02 15 L05 QUIZ
 ZCZC W02 30 L01 SCELE/Discord related
 ZCZC w02 40 L04 GitHub Pages related
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 15 L05 Quiz related including studying
+ZCZC W03 50 L13 Assignment #03
+ZCZC W03 20 L41 TXT/mylog.txt related
+ZCZC W03 15 L03 GitHub and git related, including commit, push, pull
