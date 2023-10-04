@@ -12,5 +12,10 @@ This video is great for newcomers to the Linux terminal. It explains various fun
 [Intro to GREP and Regular Expressions](https://www.youtube.com/watch?v=Cr9jjBbI2hk) ---
 This video provides an excellent explanation of how grep and regular expressions (regex) function, offering practical examples to help viewers understand their usage effectively.
 
+[Secure Copy Protocol (SCP) - Transfer Files using SSH & Command Line on Windows 10 to Linux / Other](https://www.youtube.com/watch?v=2u0I-U0D7Uk&t=279s) ---  
+How to use the Command Prompt on a Windows 10 computer to transfer files to a Linux server and other systems using the SCP (Secure Copy Protocol) over SSH (Secure Shell) client.
+
 [How to create a Makefile (C/C++)? | Makefile Tutorial | Linux](https://www.youtube.com/watch?v=O5mG8H36V44) --- 
 This video simplifies the concept to create of Makefiles for C and C++ programming in Linux, offering an easy-to-follow introduction to the topic and demonstrating how to use the "make" command.
+
+
