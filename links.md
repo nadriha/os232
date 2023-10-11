@@ -18,4 +18,5 @@ How to use the Command Prompt on a Windows 10 computer to transfer files to a Li
 [How to create a Makefile (C/C++)? | Makefile Tutorial | Linux](https://www.youtube.com/watch?v=O5mG8H36V44) --- 
 This video simplifies the concept to create of Makefiles for C and C++ programming in Linux, offering an easy-to-follow introduction to the topic and demonstrating how to use the "make" command.
 
-
+[What is virtual memory?](https://www.techtarget.com/searchstorage/definition/virtual-memory#:~:text=Virtual%20memory%20is%20a%20common,(RAM)%20to%20disk%20storage.) ---
+This page tells the explanation of virtual memory, including its definition, and how it works.
