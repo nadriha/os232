@@ -20,3 +20,6 @@ This video simplifies the concept to create of Makefiles for C and C++ programmi
 
 [What is virtual memory?](https://www.techtarget.com/searchstorage/definition/virtual-memory#:~:text=Virtual%20memory%20is%20a%20common,(RAM)%20to%20disk%20storage.) ---
 This page tells the explanation of virtual memory, including its definition, and how it works.
+
+[https://www.geeksforgeeks.org/fork-system-call-in-operating-system/](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/) ---
+Explain the fork system call and its implications in operating systems. Show the advantages and disadvantages, helping to understand the implications. Using fork() effectively is essential for efficient and stable application development on operating systems.
