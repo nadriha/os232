@@ -23,3 +23,6 @@ This page tells the explanation of virtual memory, including its definition, and
 
 [Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/) ---
 Explain the fork system call and its implications in operating systems. Show the advantages and disadvantages, helping to understand the implications. Using fork() effectively is essential for efficient and stable application development on operating systems.
+
+[Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) ---
+This article provides an in-depth explanation of process synchronization in multi-process systems, focusing on its necessity for controlled resource access, methods like semaphores and Peterson's solution, and its role in preventing race conditions and ensuring data consistency.
