@@ -26,3 +26,6 @@ Explain the fork system call and its implications in operating systems. Show the
 
 [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) ---
 This article provides an in-depth explanation of process synchronization in multi-process systems, focusing on its necessity for controlled resource access, methods like semaphores and Peterson's solution, and its role in preventing race conditions and ensuring data consistency.
+
+[LFS 12.0 - How to build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- 
+This video series provides a comprehensive guide on installing Linux From Scratch (LFS) 12.0 on actual hardware, specifically replacing an existing Windows 10 installation. It covers every step in detail, from creating a bootable USB in Windows to compiling and configuring the final LFS system.
