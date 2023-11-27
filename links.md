@@ -29,3 +29,6 @@ This article provides an in-depth explanation of process synchronization in mult
 
 [LFS 12.0 - How to build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- 
 This video series provides a comprehensive guide on installing Linux From Scratch (LFS) 12.0 on actual hardware, specifically replacing an existing Windows 10 installation. It covers every step in detail, from creating a bootable USB in Windows to compiling and configuring the final LFS system.
+
+[Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/index.html) --- 
+Step by step how to build linux from scratch
